@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BulelaniKani23 , a  current Bachelor Of Information Technology student @ Nelson Mandela University .
+- 👋 Hi, I’m @BulelaniKani23 , currently pursuing Bachelor Of Information Technology qualification @ Nelson Mandela University .
 - 👀 I’m interested in Software Development, Cybersecurity and Web Development.
 - 🌱 I’m currently learning HTML , CSS , JavaScript , MVC ,Bootstrap , React  ...
 
